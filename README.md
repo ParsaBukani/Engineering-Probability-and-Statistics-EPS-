@@ -27,10 +27,10 @@ The projects apply probability and statistics to simulation and data analysis, i
 3. [Spam Email Detection](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Spam%20Email%20Detection)
 
 ### CA1
-1. [Hypergeometric Distribution](CA1/01-Hypergeometric/)
-2. [Binomial, Normal Distribution and Continuity Correction](CA1/02-Binomial-Normal-Continuity/)
-3. [Exponential Distribution and Memorylessness](CA1/03-Exponential-Memoryless/)
-4. [Transformations of Random Variables](CA1/04-Transformations/)
+1. [Hypergeometric Distribution](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Hypergeometric%20Distribution)
+2. [Binomial, Normal Distribution and Continuity Correction](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Binomial%2C%20Normal%20Distribution%20and%20Continuity%20Correction)
+3. [Exponential Distribution and Memorylessness](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Exponential%20Distribution%20and%20Memorylessness)
+4. [Transformations of Random Variables](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Transformations%20of%20Random%20Variables)
 
 ### CA2
 1. [Joint & Conditional Distributions — Queue System Simulation](CA2/01-Joint-Conditional-Queue/)
