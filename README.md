@@ -1,10 +1,9 @@
-﻿
-# Engineering Probability and Statistics (EPS)
-
 <p align="center">
   
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e14abd74-13e0-4e09-9c8e-ed0cae015ad6" />
 </p>
+﻿
+# Engineering Probability and Statistics (EPS)
 
 
 This repository contains a series of projects developed for the course  
