@@ -24,7 +24,7 @@ The projects apply probability and statistics to simulation and data analysis, i
 ### CA0
 1. **NumPy Basics for Statistical Computations**  
 2. **Majority Vote Decision-Making**  
-3. **Spam Email Detection**
+3. [Spam Email Detection](Spam-Email-Detection)
 
 ### CA1
 1. **Hypergeometric Distribution**  
