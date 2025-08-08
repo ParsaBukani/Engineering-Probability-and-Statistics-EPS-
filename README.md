@@ -38,9 +38,9 @@ The projects apply probability and statistics to simulation and data analysis, i
 3. [Covariance & Correlation Analysis — Energy Consumption](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Covariance%20%26%20Correlation%20Analysis)
 
 ### CA3
-1. [Sample Means & the Central Limit Theorem](CA3/01-CLT-Sampling-Means/)
-2. [Mean Squared Error (MSE) — Applications](CA3/02-MSE-Applications/)
-3. [CLT for the Binomial Distribution](CA3/03-CLT-Binomial/)
+1. [Sample Means & the Central Limit Theorem](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Sampling%20%26%20the%20Central%20Limit%20Theorem)
+2. [Mean Squared Error (MSE) — Applications](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Mean%20Squared%20Error%20Applications)
+3. [CLT for the Binomial Distribution](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/CLT%20for%20the%20Binomial%20Distribution)
 
 ## License
 
