@@ -1,6 +1,6 @@
 ﻿
 # Engineering Probability and Statistics (EPS)
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e14abd74-13e0-4e09-9c8e-ed0cae015ad6" />
 This repository contains a series of projects developed for the course  
 **“Engineering Probability and Statistics (EPS)”**, offered by the  
 **Faculty of Electrical and Computer Engineering**,  
@@ -19,7 +19,7 @@ The projects apply probability and statistics to simulation and data analysis, i
 - Transformations of variables (log transform, **Box–Muller**)
 - Joint/conditional analysis, correlation vs. causation, and visualization
 
-## Project Index (Hierarchical)
+## Project Index
 
 ### CA0
 1. [NumPy Basics for Statistical Computations](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/NumPy%20Basics%20for%20Statistical%20Computations)
