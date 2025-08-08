@@ -33,9 +33,9 @@ The projects apply probability and statistics to simulation and data analysis, i
 4. [Transformations of Random Variables](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Transformations%20of%20Random%20Variables)
 
 ### CA2
-1. [Joint & Conditional Distributions — Queue System Simulation](CA2/01-Joint-Conditional-Queue/)
-2. [Bayesian Estimation — Beta–Bernoulli Updating](CA2/02-Bayesian-Estimation/)
-3. [Covariance & Correlation Analysis — Energy Consumption](CA2/03-Covariance-Correlation/)
+1. [Joint & Conditional Distributions — Queue System Simulation](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Joint%20%26%20Conditional%20Distributions)
+2. [Bayesian Estimation — Beta–Bernoulli Updating](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Bayesian%20Estimation)
+3. [Covariance & Correlation Analysis — Energy Consumption](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Covariance%20%26%20Correlation%20Analysis)
 
 ### CA3
 1. [Sample Means & the Central Limit Theorem](CA3/01-CLT-Sampling-Means/)
