@@ -10,7 +10,8 @@ Estimate a coin’s head probability using Bayesian updating with a Beta prior a
 
 ## Objectives
 
-- Implement sequential posterior updates: prior $  \text{Beta}(\alpha,\beta) $, Bernoulli data.
+- Implement sequential posterior updates: prior $\mathrm{Beta}(\alpha,\beta)$
+, Bernoulli data.
 
 - Report posterior mean, MAP, and a 95% credible interval at checkpoints.
 
