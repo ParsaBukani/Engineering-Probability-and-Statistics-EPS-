@@ -20,14 +20,10 @@ Estimate a coin’s head probability using Bayesian updating with a Beta prior a
 
 ## Tasks
 
-1.  **Model & Prior**: Define Bernoulli likelihood and start with $  \text{Beta}(1,1) $.
-
-2.  **Update Rule**: After each toss, $  \alpha  \leftarrow  \alpha + \text{heads} $, $  \beta  \leftarrow  \beta + \text{tails} $.
-
-3.  **Summaries**: At chosen steps, report $ (\alpha,\beta) $, mean $  \frac{\alpha}{\alpha+\beta} $, MAP $  \frac{\alpha-1}{\alpha+\beta-2} $ (when valid), and a 95% CI.
-
-4.  **Alternative Prior**: Repeat using $  \text{Beta}(4,10) $; contrast trajectories and final estimates.
-
+1. **Model & Prior**: Define Bernoulli likelihood and start with $\mathrm{Beta}(1,1)$.
+2. **Update Rule**: After each toss, $\alpha \leftarrow \alpha + \text{heads}$, $\beta \leftarrow \beta + \text{tails}$.
+3. **Summaries**: At chosen steps, report $(\alpha,\beta)$, mean $\frac{\alpha}{\alpha+\beta}$, MAP $\frac{\alpha-1}{\alpha+\beta-2}$ (when valid), and a 95% CI.
+4. **Alternative Prior**: Repeat using $\mathrm{Beta}(4,10)$; contrast trajectories and final estimates.
   
 
 ## License
