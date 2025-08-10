@@ -5,7 +5,7 @@
 
 _Engineering Probability and Statistics – University of Tehran_
 
-Estimate a coin’s head probability using Bayesian updating with a Beta prior and Bernoulli likelihood. Update the posterior after each toss, once with a **uniform prior** and again with ** $  \text{Beta}(4,10) $ **, then compare.
+Estimate a coin’s head probability using Bayesian updating with a Beta prior and Bernoulli likelihood. Update the posterior after each toss, once with a **uniform prior** and again with **$\mathrm{Beta}(4,10)$**, then compare.
   
 
 ## Objectives
