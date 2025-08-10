@@ -28,7 +28,7 @@ The projects apply probability and statistics to simulation and data analysis, i
 
 ## Project Index
 
-| CA  | Project Title | Link |
+| Computer Assignment | Project Title | Link |
 |-----|--------------|------|
 | **CA0** | NumPy Basics for Statistical Computations | [View](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/NumPy%20Basics%20for%20Statistical%20Computations) |
 |       | Majority Vote Decision-Making | [View](https://github.com/ParsaBukani/Engineering-Probability-and-Statistics-EPS-/tree/main/Majority%20Vote%20Decision-Making) |
